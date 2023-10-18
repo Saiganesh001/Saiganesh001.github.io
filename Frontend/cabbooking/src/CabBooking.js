@@ -28,7 +28,7 @@ export const CabBooking = () => {
       }
     }
     axios
-      .get("http://localhost:8000/api/booking")
+      .get("https://saiganesh001.github.io/api/booking")
       .then((response) => {
         // Handle the data, maybe set it to state
         console.log(response.data);
@@ -111,7 +111,7 @@ export const CabBooking = () => {
     };
 
     axios
-      .post("http://localhost:8000/api/booking", datam)
+      .post("https://saiganesh001.github.io/api/booking", datam)
       .then((res) => {
         console.log(res.data.message);
       })
