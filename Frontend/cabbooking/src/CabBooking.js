@@ -247,7 +247,7 @@ export const CabBooking = () => {
           <h1>Source: {submittedData.source}</h1>
           <h1>Destination: {submittedData.destination}</h1>
           <h1>Cheapest Cab Name: {cheapestCab?.id}</h1>
-          <h1>Trip Cost: {cost}</h1>
+          <h1>Total Time: {cost}</h1>
           <h1>Start Time:{cheapestCab?.startTime}</h1>
           <h1>End Time:{cheapestCab?.endTime}</h1>
           <h1>Total trip Cost :{cost * cheapestCab?.price}</h1>
