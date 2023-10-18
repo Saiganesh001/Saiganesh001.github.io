@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/saiganesh001.github.io/static/css/main.e6c13ad2.css",
+    "main.js": "/saiganesh001.github.io/static/js/main.21ef12bb.js",
+    "index.html": "/saiganesh001.github.io/index.html",
+    "main.e6c13ad2.css.map": "/saiganesh001.github.io/static/css/main.e6c13ad2.css.map",
+    "main.21ef12bb.js.map": "/saiganesh001.github.io/static/js/main.21ef12bb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.21ef12bb.js"
+  ]
+}
